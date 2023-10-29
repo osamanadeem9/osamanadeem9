@@ -54,4 +54,6 @@ You can connect with me on:
 <p align="center">
   <a href="https://www.linkedin.com/in/osamanadeem9"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/osama.nadeem8"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="mailto:osama.nadeem8@hotmail.com"><img src="https://img.icons8.com/fluency/48/secured-letter.png"/></a>
+   
 </p>
