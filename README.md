@@ -1,4 +1,4 @@
-### Hi 👋 My name is Osama Nadeem
+# Hi 👋 My name is Osama Nadeem
 
 I'm a backend engineer passionate about software development and machine learning.
 
